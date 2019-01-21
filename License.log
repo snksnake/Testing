@@ -1,0 +1,67 @@
+    ======  ======
+    Time:21/01/2019 11:05:29
+    Title: Initiate log
+    Message: 
+    Time:21/01/2019 11:05:29
+    Title: Initiate InternalManager
+    Message: Trying to Validate License
+    Time:21/01/2019 11:05:29
+    Title: Requesting EVT
+    Message: EVTP
+    Time:21/01/2019 11:05:29
+    Title: Requesting Validation
+    Message: ILMValidate
+    Time:21/01/2019 11:05:29
+    Title: LICENSER
+    Message: TRL MODE
+    Time:21/01/2019 11:05:29
+    Title: LICENSER
+    Message: DS LEFT18
+    Time:21/01/2019 11:05:29
+    Title: LICENSER
+    Message: DT MARK PASSED18.00:00:00
+    Time:21/01/2019 11:05:33
+    Title: Requesting Validation
+    Message: ILMValidate True
+    Time:21/01/2019 11:05:33
+    Title: Requesting Validation
+    Message: ILMValidate True Trial
+    Time:21/01/2019 11:05:33
+    Title: Requested registry access is not allowed.
+    Message:    at System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   at Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   at Telerik.Licensing.Licenser.CheckRegistryTimeStamp()
+   at Telerik.Licensing.Licenser.TryCheckLicenseExists()
+    Entering constructor for: Telerik.CommonPackage.Telerik_CommonPackagePackage
+    Entering Initialize() of: Telerik.CommonPackage.Telerik_CommonPackagePackage
+    Entering constructor for: Telerik.VSX.UserSettingsPackage.UserSettingsPackage
+    Entering Initialize() of: Telerik.VSX.UserSettingsPackage.UserSettingsPackage
+    Entering constructor for: Telerik.Web.UI.VSPackage.VSPackage
+    Entering Initialize() for: Telerik.Web.UI.VSPackage.VSPackage
+    TR: Package initializing
+    No Telerik Reporting products found in registry
+    TR: Package initialized
+    Entering constructor for: Telerik.WinControls.Converter.VSPackage.VSPackage
+    Entering Initialize() for: Telerik.WinControls.Converter.VSPackage.VSPackage
+    TR: Assembly resolution failed: Telerik.JustMock.VS2017.Implementation
+    Entering constructor for: Telerik.Xamarin.UI.VSPackage.VsPackage
+    Entering constructor for: Telerik.Xamarin.UI.VSPackage.VsPackage
+    Entering Initialize() for: Telerik.Xamarin.UI.VSPackage.VsPackage
+    Entering Initialize() for: Telerik.Xamarin.UI.VSPackage.VsPackage
+    Entering constructor for: Telerik.KendoUI.ASP.NET.Core.VSPackage.VsPackage
+    Entering constructor for: Telerik.KendoUI.ASP.NET.Core.VSPackage.VsPackage
+    Entering Initialize() for: Telerik.KendoUI.ASP.NET.Core.VSPackage.VsPackage
+    Entering Initialize() for: Telerik.KendoUI.ASP.NET.Core.VSPackage.VsPackage
+    Entering constructor for: Telerik.Windows.WPF.VSPackage.VSPackage
+    Entering Initialize() for: Telerik.Windows.WPF.VSPackage.VSPackage
+    Entering constructor for: Telerik.WinControls.VSPackage.VSPackage
+    Entering Initialize() for: Telerik.WinControls.VSPackage.VSPackage
+    TestWindow package loaded
+    TR: Assembly resolution failed: Telerik.UserSettings.2018.4.1121.1.XmlSerializers, Version=2018.4.1121.1, Culture=neutral, PublicKeyToken=0dfdc51bd06071b4
+    TR: Assembly resolution failed: Telerik.VSX.Notifications.1.2.0.0.XmlSerializers, Version=1.2.0.0, Culture=neutral, PublicKeyToken=0dfdc51bd06071b4
+    TR: Assembly resolution failed: Telerik.UserSettings.2018.3.1011.1.XmlSerializers, Version=2018.3.1011.1, Culture=neutral, PublicKeyToken=0dfdc51bd06071b4
+    TR: Assembly resolution failed: Telerik.VSX.Notifications.1.2.0.0.XmlSerializers, Version=1.2.0.0, Culture=neutral, PublicKeyToken=0dfdc51bd06071b4
+    TR: Assembly resolution failed: Telerik.Xamarin.UI.VSX.2018.4.1121.1.XmlSerializers, Version=2018.4.1121.1, Culture=neutral, PublicKeyToken=0dfdc51bd06071b4
+    TR: Assembly resolution failed: Telerik.VSX.2018.3.1011.1.XmlSerializers, Version=2018.3.1011.1, Culture=neutral, PublicKeyToken=0dfdc51bd06071b4
+    Entering constructor for: Microsoft.Cct.CctSharedPackage
+    Entering Initialize() of: Microsoft.Cct.CctSharedPackage
